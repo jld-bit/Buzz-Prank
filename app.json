@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Buzz Prank",
+    "slug": "buzz-prank",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.example.buzzprank",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Buzz Prank uses the camera torch to create flashlight flicker effects."
+      }
+    },
+    "plugins": [
+      "react-native-google-mobile-ads"
+    ]
+  }
+}

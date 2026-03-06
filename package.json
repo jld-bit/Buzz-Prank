@@ -1,0 +1,22 @@
+{
+  "name": "buzz-prank",
+  "version": "1.0.0",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "ios": "expo run:ios",
+    "android": "expo run:android",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~51.0.28",
+    "expo-av": "~14.0.7",
+    "expo-camera": "~15.0.16",
+    "expo-sensors": "~13.0.9",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-google-mobile-ads": "^13.8.1"
+  }
+}
